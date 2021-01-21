@@ -66,11 +66,11 @@ Your finished project must include all of the following requirements:
 
 #### NPM Scripts
 
-A _"test"_ script already exists you can use to run tests against your code.
+<!-- A _"test"_ script already exists you can use to run tests against your code.
 
 - [ ] Write an _npm script_ named _"start"_ that uses `node` to run the API server.
 - [ ] Write an _npm script_ named _"server"_ that uses `nodemon`to run the API server.
-- [ ] Install _nodemon_ as a development dependency only that would not be used in production.
+- [ ] Install _nodemon_ as a development dependency only that would not be used in production. -->
 
 #### Build an API
 
@@ -128,6 +128,7 @@ There are two possible ways to submit this project to Canvas. Lambda Staff will 
 Be prepared to demonstrate your understanding of this week's concepts by answering questions on the following topics. You might prepare by writing down your own answers before hand.
 
 1. The core features of Node.js and Express and why they are useful.
+Node.js is used to optimize designing web applications using JavaScript and Express is a framework used to further this process using middleware. Node has access to thousands of packages (NPM).
 1. Understand and explain the use of Middleware.
 1. The basic principles of the REST architectural style.
 1. Understand and explain the use of Express Routers.
